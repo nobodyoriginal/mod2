@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: examplemodsareus
+Specification-Version: 1
+Implementation-Title: techmod
+Implementation-Version: 1.0
+Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2022-09-17T16:52:38+0300
+
